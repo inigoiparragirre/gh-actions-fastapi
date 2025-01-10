@@ -1,0 +1,7 @@
+name: Fastapi App tests
+
+on:
+  pull_request:
+    branches:
+      - main
+      
